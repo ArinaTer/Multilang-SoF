@@ -1,0 +1,141 @@
+@use '../utils/utils' as *;
+
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  width: 100%;
+
+  // .header__container
+  &__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1620px;
+    width: 100%;
+    padding: 0 20px;
+    margin: 43px auto 0;
+    @include media(1600.98, 'max') {
+      max-width: 1360px;
+    }
+  }
+
+  // .header__logo
+  &__logo {
+    max-width: 360px;
+    width: 100%;
+    height: auto;
+    @include media(1600.98, 'max') {
+      max-width: 200px;
+    }
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+
+  // .header__logo-link
+  &__logo-link {
+  }
+
+  // .header__nav
+  &__nav {
+  }
+
+  // .header__nav-list
+  &__nav-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+  }
+
+  // .header__nav-item
+  &__nav-item {
+    a {
+      @include EuropaBold;
+      font-size: 20px;
+      line-height: 24px;
+      color: $white;
+      @include media(1600.98, 'max') {
+        font-size: 14px;
+      }
+    }
+  }
+
+  // .header__actions
+  &__actions {
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    @include media(1600.98, 'max') {
+      gap: 18px;
+    }
+  }
+
+  // .header__search
+  &__search {
+    width: 36px;
+    height: 36px;
+    @include media(1600.98, 'max') {
+      width: 30px;
+      height: 30px;
+    }
+  }
+
+  // .header__search-icon
+  &__search-icon {
+  }
+
+  // .header__cta
+  &__cta {
+  }
+
+  // .header__cta-button
+  &__cta-button {
+    display: block;
+    @include SansitaBold;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 1.28px;
+    text-align: center;
+    text-transform: uppercase;
+    color: $white;
+    background: $black;
+    padding: 17px 20px;
+    border-radius: 2px;
+    max-width: 200px;
+    width: 100%;
+    @include media(1600.98, 'max') {
+      font-size: 12px;
+      padding: 12px 16px;
+    }
+  }
+
+  // .header__language
+  &__language {
+    background: $black;
+    padding: 0 12px;
+    height: 36px;
+    border-radius: 2px;
+    @include media(1600.98, 'max') {
+      padding: 10px 4px;
+    }
+
+    select {
+      @include SansitaBold;
+      font-size: 16px;
+      line-height: 100%;
+      letter-spacing: 1.28px;
+      text-align: center;
+      text-transform: uppercase;
+      color: $white;
+      @include media(1600.98, 'max') {
+        font-size: 12px;
+      }
+    }
+  }
+}

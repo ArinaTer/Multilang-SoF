@@ -1,0 +1,80 @@
+// @use 'mixins';
+@use '../utils/mixins' as *;
+
+// Europa
+@include font-face('EuropaBold', '/files/fonts/Europa/Europa-Bold');
+@include font-face('EuropaRegular', '/files/fonts/Europa/Europa-Regular');
+
+// EuropaNuova
+@include font-face(
+  'EuropaNuovaBold',
+  '/files/fonts/Europa-Nuova/EuropaNuova-Bold'
+);
+@include font-face(
+  'EuropaNuovaRegular',
+  '/files/fonts/Europa-Nuova/EuropaNuova-Regular'
+);
+
+// Poppins
+@include font-face('PoppinsMedium', '/files/fonts/Poppins/Poppins-Medium');
+@include font-face('PoppinsRegular', '/files/fonts/Poppins/Poppins-Regular');
+
+// Roboto
+@include font-face('RobotoBold', '/files/fonts/Roboto/Roboto-Bold');
+@include font-face('RobotoLight', '/files/fonts/Roboto/Roboto-Light');
+@include font-face('RobotoRegular', '/files/fonts/Roboto/Roboto-Regular');
+
+// Sansita
+@include font-face('SansitaBold', '/files/fonts/Sansita/Sansita-Bold');
+
+// SegoeUI
+@include font-face('SegoeLight', '/files/fonts/Segoe-UI/SegoeUI-Light');
+@include font-face('SegoeRegular', '/files/fonts/Segoe-UI/SegoeUI');
+
+// Europa
+@mixin EuropaBold {
+  font-family: 'EuropaBold', Arial, sans-serif;
+}
+@mixin EuropaRegular {
+  font-family: 'EuropaRegular', Arial, sans-serif;
+}
+
+// EuropaNuova
+@mixin EuropaNuovaBold {
+  font-family: 'EuropaNuovaBold', Arial, sans-serif;
+}
+@mixin EuropaNuovaRegular {
+  font-family: 'EuropaNuovaRegular', Arial, sans-serif;
+}
+
+// Poppins
+@mixin PoppinsMedium {
+  font-family: 'PoppinsMedium', Arial, sans-serif;
+}
+@mixin PoppinsRegular {
+  font-family: 'PoppinsRegular', Arial, sans-serif;
+}
+
+// Roboto
+@mixin RobotoBold {
+  font-family: 'RobotoBold', Arial, sans-serif;
+}
+@mixin RobotoLight {
+  font-family: 'RobotoLight', Arial, sans-serif;
+}
+@mixin RobotoRegular {
+  font-family: 'RobotoRegular ', Arial, sans-serif;
+}
+
+// Sansita
+@mixin SansitaBold {
+  font-family: 'SansitaBold', Arial, sans-serif;
+}
+
+// SegoeUI
+@mixin SegoeLight {
+  font-family: 'SegoeLight', Arial, sans-serif;
+}
+@mixin SegoeRegular {
+  font-family: 'SegoeRegular', Arial, sans-serif;
+}

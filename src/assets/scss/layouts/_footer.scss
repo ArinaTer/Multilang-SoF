@@ -1,0 +1,71 @@
+@use '../utils/utils' as *;
+
+.footer {
+  background: #0a0a0a;
+  padding: 65px 0;
+  position: relative;
+
+  // .footer__scroll-top
+  &__scroll-top {
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+    z-index: 3;
+    background-color: #A0A0A0;
+    width: 42px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  // .footer__content
+  &__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  // .footer__copyright
+  &__copyright {
+    font-size: 20px;
+    line-height: 100%;
+    color: $white;
+    @include media(1600.98, 'max') {
+      font-size: 16px;
+    }
+
+    span {
+      @include EuropaBold;
+    }
+  }
+
+  // .footer__socials
+  &__socials {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+  }
+
+  // .footer__social-link
+  &__social-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  // .footer__social-icon
+  &__social-icon {
+    margin-bottom: 12px;
+  }
+
+  // .footer__socials-text
+  &__socials-text {
+    font-size: 18px;
+    line-height: 100%;
+    color: #9d9d9d;
+    @include media(1600.98, 'max') {
+      font-size: 14px;
+    }
+  }
+}

@@ -1,0 +1,15 @@
+//Utils
+@use 'utils/utils';
+
+// Base
+@use 'base/reset';
+@use 'base/globals';
+
+//Layouts
+@use 'layouts/header';
+@use 'layouts/footer';
+@use 'layouts/breadcrumbs';
+
+// Pages
+@use 'pages/home';
+@use 'pages/single-version';
