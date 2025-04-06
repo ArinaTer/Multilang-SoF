@@ -8,7 +8,7 @@ export async function changeLanguage() {
             lng: "en",
             fallbackLng: "en",
             backend: {
-                loadPath: "/locales/{{lng}}.json",
+                loadPath: "locales/{{lng}}.json",
             },
         });
 

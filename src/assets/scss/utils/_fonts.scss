@@ -2,34 +2,34 @@
 @use '../utils/mixins' as *;
 
 // Europa
-@include font-face('EuropaBold', '/files/fonts/Europa/Europa-Bold');
-@include font-face('EuropaRegular', '/files/fonts/Europa/Europa-Regular');
+@include font-face('EuropaBold', '../files/fonts/Europa/Europa-Bold');
+@include font-face('EuropaRegular', '../files/fonts/Europa/Europa-Regular');
 
 // EuropaNuova
 @include font-face(
   'EuropaNuovaBold',
-  '/files/fonts/Europa-Nuova/EuropaNuova-Bold'
+  '../files/fonts/Europa-Nuova/EuropaNuova-Bold'
 );
 @include font-face(
   'EuropaNuovaRegular',
-  '/files/fonts/Europa-Nuova/EuropaNuova-Regular'
+  '../files/fonts/Europa-Nuova/EuropaNuova-Regular'
 );
 
 // Poppins
-@include font-face('PoppinsMedium', '/files/fonts/Poppins/Poppins-Medium');
-@include font-face('PoppinsRegular', '/files/fonts/Poppins/Poppins-Regular');
+@include font-face('PoppinsMedium', '../files/fonts/Poppins/Poppins-Medium');
+@include font-face('PoppinsRegular', '../files/fonts/Poppins/Poppins-Regular');
 
 // Roboto
-@include font-face('RobotoBold', '/files/fonts/Roboto/Roboto-Bold');
-@include font-face('RobotoLight', '/files/fonts/Roboto/Roboto-Light');
-@include font-face('RobotoRegular', '/files/fonts/Roboto/Roboto-Regular');
+@include font-face('RobotoBold', '../files/fonts/Roboto/Roboto-Bold');
+@include font-face('RobotoLight', '../files/fonts/Roboto/Roboto-Light');
+@include font-face('RobotoRegular', '../files/fonts/Roboto/Roboto-Regular');
 
 // Sansita
-@include font-face('SansitaBold', '/files/fonts/Sansita/Sansita-Bold');
+@include font-face('SansitaBold', '../files/fonts/Sansita/Sansita-Bold');
 
 // SegoeUI
-@include font-face('SegoeLight', '/files/fonts/Segoe-UI/SegoeUI-Light');
-@include font-face('SegoeRegular', '/files/fonts/Segoe-UI/SegoeUI');
+@include font-face('SegoeLight', '../files/fonts/Segoe-UI/SegoeUI-Light');
+@include font-face('SegoeRegular', '../files/fonts/Segoe-UI/SegoeUI');
 
 // Europa
 @mixin EuropaBold {
