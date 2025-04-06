@@ -1,0 +1,183 @@
+{
+  "header": {
+    "nav": {
+      "destinations": "DESTINATIONS",
+      "food": "FOOD",
+      "well_being": "WELL BEING",
+      "sport": "SPORT",
+      "family": "FAMILY",
+      "lifestyle": "LIFESTYLE"
+    },
+    "cta": "CALL TO ACTION",
+    "language_switcher": {
+      "en": "EN",
+      "ru": "RU"
+    }
+  },
+  "home_page": {
+    "title": "Blog homepage",
+    "hero": {
+      "title": "Inspiration for travel by real people",
+      "subtitle": "Book smart, travel simple",
+      "button": "Start planning your trip"
+    },
+    "posts": {
+      "social_links": {
+        "facebook": "3.7 M",
+        "instagram": "2.4 M",
+        "twitter": "3.7 M",
+        "youtube": "2.4 M"
+      },
+      "tags": {
+        "tag_1": "AENEAN ELEIFEND",
+        "tag_2": "ALIQUAM"
+      },
+      "post_1": {
+        "title": "Integer Maecenas Eget Viverra",
+        "meta": {
+          "author": "Joanna Wellick",
+          "date": "June 28, 2018",
+          "shares": "1K shares"
+        },
+        "description": "Aenean eleifend ante maecenas pulvinar montes lorem et pede dis dolor pretium donec dictum. Vici consequat justo enim. Venenatis eget adipiscing luctus lorem."
+      },
+      "post_2": {
+        "title": "Aenean eleifend ante maecenas",
+        "meta": {
+          "author": "Joanna Wellick",
+          "date": "June 28, 2018",
+          "shares": "1K shares"
+        },
+        "description": "Aenean eleifend ante maecenas pulvinar montes lorem et pede dis dolor pretium donec dictum. Vici consequat justo enim. Venenatis eget adipiscing luctus lorem."
+      },
+      "post_3": {
+        "title": "Integer Maecenas Eget Viverra",
+        "meta": {
+          "author": "Joanna Wellick",
+          "date": "June 28, 2018",
+          "shares": "1K shares"
+        },
+        "description": "Aenean eleifend ante maecenas pulvinar montes lorem et pede dis dolor pretium donec dictum. Vici consequat justo enim. Venenatis eget adipiscing luctus lorem."
+      },
+      "button": "VIEW POST"
+    },
+    "featured_post": {
+      "category": "Travel",
+      "title": "Richird Norton photorealistic rendering as real photos",
+      "description": "Progressively incentivize cooperative systems through technically sound functionalities. The credibly productivate seamless data.",
+      "button": "Start planning your trip"
+    },
+    "top_destinations": {
+      "title": "Top Destinations",
+      "description": "Tick one more destination off of your bucket list with one of our most popular vacations in 2022",
+      "destinations": {
+        "destination_1": "Dominican Republic",
+        "destination_2": "Maecenas Tincidunt",
+        "destination_3": "Dominican Republic",
+        "destination_4": "Dominican Republic",
+        "destination_5": "Dominican Republic"
+      }
+    },
+    "blog": {
+      "blog": {
+        "category_1": "Category name",
+        "category_2": "Category name",
+        "category_3": "Category name"
+      },
+      "main_post": {
+        "meta": "1 Month Ago",
+        "title": "Tick one more destination off your bucket list with one of the most popular vacations in 2022",
+        "excerpt": "It, Phasellus aliquet nibh id iaculis pharetra. Maecenas eleifend sed ex. Donec quis magna sed felis elementum blandit nec quis sem. Maecen.",
+        "link": "View Post"
+      },
+      "small_posts": {
+        "post_1": {
+          "title": "Akame Ga Kill: Season finale",
+          "meta": "21 March 2021"
+        },
+        "post_2": {
+          "title": "Naruto Uzumaki: Hidden Village",
+          "meta": "21 March 2021"
+        },
+        "post_3": {
+          "title": "Love Juice Season Premiere",
+          "meta": "21 March 2021"
+        },
+        "post_4": {
+          "title": "Love juice Season Priemere",
+          "meta": "21 March 2021"
+        }
+      },
+      "right_sidebar": {
+        "title": "Manga reads",
+        "post_1": {
+          "title": "Tick one more destination off of your bucket list with one of our most popular vacations in 2022",
+          "meta": "21 March 2021"
+        },
+        "post_2": {
+          "title": "Tick one more destination off of your bucket list with one of our most popular vacations in 2022",
+          "meta": "21 March 2021"
+        },
+        "post_3": {
+          "title": "Tick one more destination off of your bucket list with one of our most popular vacations in 2022",
+          "meta": "21 March 2021"
+        }
+      }
+    }
+  },
+  "single_version_page": {
+    "title": "Blog single version 1",
+    "breadcrumbs": {
+      "item_1": "Home",
+      "item_2": "Growth",
+      "item_3": "5 Efficient Rules How to Organize Your Working Place"
+    },
+    "post_hero": {
+      "title": "5 EFFICIENT RULES HOW TO ORGANIZE YOUR WORKING PLACE",
+      "subtitle": "Relationship tips couples therapists are giving all the time",
+      "meta": {
+        "author": "By Joanna Wellick",
+        "time": "2 minute read",
+        "views": "1.6K views",
+        "shares": "1.2K shares"
+      }
+    },
+    "single_version": {
+      "sidebar": {
+        "views_label": "views",
+        "views_value": "1.6K",
+        "shares_label": "shares",
+        "shares_value": "996K",
+        "socials": {
+          "facebook": "125",
+          "pinterest": "425"
+        }
+      },
+      "content": {
+        "paragraph_1": "Structured gripped tape invisible moulded cups for sauppor firm hold strong powermesh front liner sport detail. Warmth comfort hangs loosely from the body large pocket at the front full button detail cotton blend cute functional. Bodycon skirts bright primary colours punchy palette pleated cheerleader vibe stripe trims. Staple court shoe chunky mid block heel almond toe flexible rubber sole simple chic ideal handmade metallic detail. Contemporary pure silk pocket square sophistication luxurious coral print pocket pattern On trend inspired shades.",
+        "paragraph_2": "Striking pewter studded epaulettes silver zips inner drawstring waist channel urban edge single-breasted jacket. Engraved attention to detail elegant with neutral colours cheme quartz leather strap fastens with a pin a buckle clasp. Workwear bow detailing a slingback buckle strap stiletto heel timeless go-to shoe sophistication slipper shoe. Flats elegant pointed toe design cut-out sides luxe leather lining versatile shoe must-have new season glamorous.",
+        "blockquote": "Knicker lining concealed back zip fasten swing style high waisted double layer full pattern floral.",
+        "paragraph_3": "Foam padding in the insoles leather finest quality staple flat slip-on design pointed toe off-duty shoe. Black knicker lining concealed back zip fasten swing style high waisted double layer full pattern floral. Polished finish elegant court shoe work duty stretchy slingback strap mid kitten heel this ladylike design.",
+        "paragraph_4": "Eget aenean tellus venenatis. Donec odio tempus. Felis arcu pretium metus nullam quam aenean sociis quis sem neque vici libero. Venenatis nullam fringilla pretium magnis aliquam nunc vulputate integer augue ultricies cras. Eget viverra feugiat cras ut. Sit natoque montes tempus ligula eget vitae pede rhoncus maecenas consectetuer commodo condimentum aenean.",
+        "section_title": "Eu ridiculus fringilla aenean",
+        "paragraph_5": "Sociis consequat adipiscing sit curabitur donec sem luctus cras natoque vulputate dolor eget dapibus. Nec vitae eros ullamcorper laoreet dapibus mus ac ante viverra. A aenean sit augue curabitur et parturient nisi sed enim. Nulla nec quis sit quisque sem commodo ultricies neque. Lorem eget venenatis dui ante luctus ultricies tellus montes. Quis in sapien tempus.",
+        "list": {
+          "item_1": "Crisp fresh iconic elegant timeless clean perfume",
+          "item_2": "Neck straight sharp silhouette and dart detail",
+          "item_3": "Machine wash cold slim fit premium stretch selvedge denim comfortable low waist"
+        },
+        "paragraph_6": "See-through delicate embroidered organza blue lining luxury acetate-mix stretch pleat detailing. Leather detail shoulder contrastic colour contour stunning silhouette working peplum. Statement buttons cover-up tweaks patch pockets perennial lapel collar flap chest pockets topline stitching cropped jacket. Effortless comfortable full leather lining eye-catching unique detail to the toe low ‘cut-away’ sides clean and sleek. Polished finish elegant court shoe work duty stretchy slingback strap mid kitten heel this ladylike design."
+      }
+    }
+  },
+  "footer": {
+    "copyright": "Designed & Developed by XP DESIGN",
+    "socials": {
+      "facebook": "29",
+      "twitter": "70K",
+      "instagram": "40",
+      "pinterest": "13K",
+      "youtube": "168K"
+    }
+  }
+}

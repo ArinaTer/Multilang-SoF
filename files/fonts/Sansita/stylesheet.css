@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Sansita';
+    src: url('Sansita-Bold.woff2') format('woff2'),
+        url('Sansita-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sansita';
+    src: url('Sansita-Regular.woff2') format('woff2'),
+        url('Sansita-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
